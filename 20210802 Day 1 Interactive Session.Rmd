@@ -57,7 +57,7 @@ pop_logistic(capacity = 2580, init_pop = 230, rate = 0.32, time_yr = 2.4)
 ### try finding the population over a sequence of times
 
 ```{r}
-time_vec <- seq(from = 0, to = 20, by = 0.5)
+time_vec <- seq(from = 0, to = 15, by = 0.5)
 #check your vector
 #time_vec
 
